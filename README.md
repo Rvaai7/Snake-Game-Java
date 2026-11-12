@@ -77,6 +77,11 @@ Through this project, I gained practical experience in:
 - File handling and data persistence
 - Problem-solving and debugging
 
+
+## 📸 Screenshots
+
+![Snake Game Screenshot](images/snake-game.png)
+
 ## 👩‍💻 Developed By
 
 **Rahaf Alnadwi**
